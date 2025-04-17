@@ -2,8 +2,6 @@
 
 **`Desenvolvedora Back-end e Analista de Dados`**
 
-Me chamo Alana Da Cas Lorenzetti, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER e me aprofundando no que se refere ao Back-end e Ciência de Dados. 
-
 <p align="left">
     </a> 
     <a href="https://github.com/alanadacas?tab=repositories&sort=stargazers">
