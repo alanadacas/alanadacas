@@ -104,6 +104,39 @@ Me chamo Alana e sou estudante de Análise e Desenvolvimento de Sistemas na Unin
 <br/>
 <br/>
 
+## ⚡ Data Analytics & Vibe Coding
+
+> 💡 **Diferencial Analítico:** Integro o uso de **Inteligência Artificial** (Google Gemini, GitHub Copilot, etc) nas etapas do fluxo para otimizar scripts, realizar o debugging de queries complexas e acelerar a extração de insights estratégicos.
+
+---
+
+### 🚀 Processo de Trabalho (AI-Augmented)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔍%20COLETA-SQL%20%7C%20APIs-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/➔-white?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧹%20LIMPEZA-Pandas%20%7C%20P.Query-orange?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/➔-white?style=flat-square" />
+  <img src="https://img.shields.io/badge/📊%20ANÁLISE-Estatística%20%7C%20Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/➔-white?style=flat-square" />
+  <img src="https://img.shields.io/badge/📈%20VISUALIZAÇÃO-Dashboards-green?style=for-the-badge&logo=powerbi&logoColor=white" />
+</p>
+
+---
+
+### 🧠 Vibe Coding & Engenharia de Contexto
+
+*   ✨ **Vibe Coding:** Utilizo o plataformas como o **Google AI Studio** e modelos de LLM para prototipagem rápida de MVPs e validação de lógica. Minha fluidez no "Vibe Coding" permite sair da ideia para um protótipo funcional em minutos, focando na arquitetura e no resultado final.
+*   📖 **Context Coding:** Entendo que a IA é tão boa quanto o contexto que recebe. Aplico engenharia de contexto para guiar modelos na criação de scripts Python robustos e queries performáticas.
+*   🛠️ **Ferramentas de Poder:**
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+    ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+---
+
+
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alanadacas&custom_title=Alana's%20GitHub%20Stats&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=FFC0CB&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanadacas&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" alt="Top Languages" />
