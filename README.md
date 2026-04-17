@@ -104,9 +104,10 @@ Me chamo Alana e sou estudante de Análise e Desenvolvimento de Sistemas na Unin
 <br/>
 <br/>
 
-## ⚡ Data Analytics & Vibe Coding
+## ⚡ Data Analytics & AI
 
-> 💡 **Diferencial Analítico:** Integro o uso de **Inteligência Artificial** (Google Gemini, GitHub Copilot, etc) nas etapas do fluxo para otimizar scripts, realizar o debugging de queries complexas e acelerar a extração de insights estratégicos.
+> 💡 **Diferencial Analítico:** Integro o uso de **Inteligência Artificial** nas etapas do fluxo para otimizar scripts, realizar o debugging de queries complexas e acelerar a extração de insights estratégicos.
+> 🐍 **Python em Notebook:** Minha principal ferramenta para análises rápidas e exploratórias. Utilizo notebooks para prototipagem interativa, visualização imediata de dados e insights, documentação do processo de análise e iteração ágil com amostras antes de consolidações.
 
 ---
 
