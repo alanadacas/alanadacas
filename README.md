@@ -126,6 +126,8 @@ Me chamo Alana e sou estudante de Análise e Desenvolvimento de Sistemas na Unin
   <img src="https://img.shields.io/badge/📈%20VISUALIZAÇÃO-Dashboards-green?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
 
+💻 Formação em ADS: Entendo de desenvolvimento, segurança da informação, documentação técnica e boas práticas de engenharia de software. Isso significa código mais limpo, pipelines mais seguros e análises mais confiáveis.
+
 ---
 
 ### 🧠 Vibe Coding & Engenharia de Contexto
