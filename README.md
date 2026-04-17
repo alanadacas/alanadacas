@@ -107,7 +107,10 @@ Me chamo Alana e sou estudante de Análise e Desenvolvimento de Sistemas na Unin
 ## ⚡ Data Analytics & AI
 
 > 💡 **Diferencial Analítico:** Integro o uso de **Inteligência Artificial** nas etapas do fluxo para otimizar scripts, realizar o debugging de queries complexas e acelerar a extração de insights estratégicos.
+> 
 > 🐍 **Python em Notebook:** Minha principal ferramenta para análises rápidas e exploratórias. Utilizo notebooks para prototipagem interativa, visualização imediata de dados e insights, documentação do processo de análise e iteração ágil com amostras antes de consolidações.
+>
+> 📈 KPI-driven: Trabalho diariamente com definição, cálculo e monitoramento de indicadores de desempenho — churn, NPS, CSAT, CAPEX, OPEX — traduzindo métricas de negócio em análises aplicáveis a processos de auditoria e due diligence.
 
 ---
 
