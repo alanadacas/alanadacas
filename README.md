@@ -162,3 +162,7 @@ Me chamo Alana e sou estudante de Análise e Desenvolvimento de Sistemas na Unin
 </div>
 
 [![Alana's Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=alanadacas&custom_title=Alana's+Coding+Journey&bg_color=ffc0cb&color=f5f6fa&line=db7093&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=100&color=7E676C&text=Obrigada%20por%20visitar%20meu%20perfil!&section=footer&fontAlign=50&fontAlignY=65&fontSize=35&descAlign=69&descAlignY=69&reversal=true&fontColor=FFFFFF&animation=blinking" />
+</p>
