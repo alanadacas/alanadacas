@@ -4,7 +4,7 @@
 
 **`Back-end e Ciência de Dados`**
 # Alana Da Cas - Sobre mim:👩🏻‍💻
-Me chamo Alana e sou estudante de Análise e Desenvolvimento de Sistemas na Uninter, através do Programa Prouni. Paralelamente à graduação, trabalho como analista de auditoria na IPV7 e dedico meus estudos ao Back-end e à Ciência de Dados, visando aprimorar resultados e crescer profissionalmente.
+Me chamo Alana, profissional da área de Dados, cursando Análise e Desenvolvimento de Sistemas e atuando como Analista de Auditoria para o setor de Telecomunicações.
 
 
 <p align="left">
