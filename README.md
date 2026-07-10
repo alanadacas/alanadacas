@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=300&size=50&duration=4000&pause=1000&color=FFC0CB&center=true&vCenter=true&random=false&width=1000&lines=Olá!+Me+chamo+Alana.;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-**`Back-end e Ciência de Dados`**
+**`Análise e Ciência de Dados / Business Intelligence / IA`**
 # Alana Da Cas - Sobre mim:👩🏻‍💻
 Me chamo Alana, profissional da área de Dados, cursando Análise e Desenvolvimento de Sistemas e atuando como Analista de Auditoria para o setor de Telecomunicações.
 
