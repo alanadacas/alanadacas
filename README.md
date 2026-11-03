@@ -130,13 +130,17 @@ Me chamo Alana, profissional da área de Dados, cursando Análise e Desenvolvime
 
 ---
 
-### 🧠 Vibe Coding & Engenharia de Contexto
+### 🤖 IA Aplicada ao Desenvolvimento e Análise de Dados
 
+Utilizo Inteligência Artificial como parte estruturada do meu fluxo de trabalho, combinando
+**engenharia de prompt e de contexto** com revisão técnica para entregar soluções confiáveis,
+rastreáveis e de rápida evolução.
 
-| ✨ Vibe Coding | 📖 Context Coding | ⚙️ Automação Inteligente |
-| :--- | :--- | :--- |
-| Utilizo o plataformas como o **Google AI Studio** e modelos de LLM para prototipagem rápida de MVPs e validação de lógica. Minha fluidez no "Vibe Coding" permite sair da ideia para um protótipo funcional em minutos, focando na arquitetura e no resultado final.| Entendo que a IA é tão boa quanto o contexto que recebe. Aplico engenharia de contexto para guiar modelos na criação de scripts Python robustos e queries performáticas. | Uso **Python** não apenas para analisar, mas para automatizar. 
----
+| 🎯 Engenharia de Prompt | 🚀 Prototipação e Entregas | ⚙️ Automação e Integração |
+|---|---|---|
+| Estruturação de prompts e contexto para guiar modelos na criação de scripts Python robustos e queries performáticas. | Criação de MVPs, dashboards e protótipos funcionais (e landing pages*) para validar ideias com rapidez. | Automação de processos e integração entre sistemas, dados e ferramentas, reduzindo tarefas manuais. |
+
+🔄 **Melhoria contínua com IA:** exploração constante de novas possibilidades com IA para inovar, otimizar código, refatorar e acelerar a geração de insights, com revisão e validação técnica.
 
 #### 🛠️ Ferramentas de Poder
 <p align="left">
