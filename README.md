@@ -25,6 +25,17 @@ Me chamo Alana, profissional da área de Dados, cursando Análise e Desenvolvime
     </a>
 </p>
 
+## 👋 Fale comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alanadacaslorenzetti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alanadacaslorenzetti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 ---
 
 ### Linguagens e Tecnologias
@@ -198,12 +209,15 @@ rastreáveis e de rápida evolução.
 
 ---
 
+
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alanadacas&custom_title=Alana's%20GitHub%20Stats&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=FFC0CB&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanadacas&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" alt="Top Languages" />
+
+<img src="https://komarev.com/ghpvc/?username=alanadacas&color=ff91a4&style=for-the-badge&label=VISITAS" alt="Contador de visitas" />
+
 </div>
 
-[![Alana's Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=alanadacas&custom_title=Alana's+Coding+Journey&bg_color=ffc0cb&color=f5f6fa&line=db7093&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=7E676C&text=Confira%20meus%20projetos:&section=footer&fontAlign=50&fontAlignY=50&fontSize=35&descAlign=69&descAlignY=69&reversal=true&fontColor=FFFFFF&animation=blinking&fontFamily=Montserrat&fontWeight=10" />
