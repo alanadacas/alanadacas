@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=300&size=50&duration=4000&pause=1000&color=FFC0CB&center=true&vCenter=true&random=false&width=1000&lines=Olá!+Me+chamo+Alana.;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 **`Data Analyst / Business Intelligence / Python & AI / Analytics Engineer`**
-# Alana Da Cas - Sobre mim:👩🏻‍💻
+# Alana Da Cas - Sobre mim:
 Me chamo Alana, profissional da área de Dados, cursando Análise e Desenvolvimento de Sistemas e atuando como Analista de Auditoria para o setor de Telecomunicações.
 
 
@@ -112,8 +112,6 @@ Me chamo Alana, profissional da área de Dados, cursando Análise e Desenvolvime
 >
 > 📈 KPI-driven: Trabalho diariamente com definição, cálculo e monitoramento de indicadores de desempenho — churn, NPS, CSAT, CAPEX, OPEX — traduzindo métricas de negócio em análises aplicáveis a processos de auditoria e due diligence.
 
----
-
 ### 🚀 Processo de Trabalho (AI-Augmented)
 
 <p align="center">
@@ -126,11 +124,17 @@ Me chamo Alana, profissional da área de Dados, cursando Análise e Desenvolvime
   <img src="https://img.shields.io/badge/📈%20VISUALIZAÇÃO-Dashboards-green?style=for-the-badge&logo=powerbi&logoColor=white" />
 </p>
 
-💻 Formação em ADS: Entendo de desenvolvimento, segurança da informação, documentação técnica e boas práticas de engenharia de software. Isso significa código mais limpo, pipelines mais seguros e análises mais confiáveis.
+---
+
+## 🎓 Formação e Perfil Generalista
+
+💻 **Formação em ADS:** cursando Análise e Desenvolvimento de Sistemas, o que me dá base em desenvolvimento de software, segurança da informação, documentação técnica e boas práticas de engenharia, como versionamento, testes, modularização e orientação a objetos.
+
+🧩 **Perfil generalista:** lido com diversas frentes ao mesmo tempo, me adapto rápido a novos contextos e aplico meu conhecimento em dados, desenvolvimento e negócio para resolver o que vier. Gosto de entender o processo de ponta a ponta e conectar as peças para entregar soluções completas.
 
 ---
 
-### 🤖 IA Aplicada ao Desenvolvimento e Análise de Dados
+## 🤖 IA Aplicada ao Desenvolvimento e Análise de Dados
 
 Utilizo Inteligência Artificial como parte estruturada do meu fluxo de trabalho, combinando
 **engenharia de prompt e de contexto** com revisão técnica para entregar soluções confiáveis,
