@@ -112,16 +112,66 @@ Me chamo Alana, profissional da área de Dados, cursando Análise e Desenvolvime
 >
 > 📈 KPI-driven: Trabalho diariamente com definição, cálculo e monitoramento de indicadores de desempenho — churn, NPS, CSAT, CAPEX, OPEX — traduzindo métricas de negócio em análises aplicáveis a processos de auditoria e due diligence.
 
-### 🚀 Processo de Trabalho (AI-Augmented)
+## 🛠️ Fluxo de Trabalho e Stack
+
+### Como eu trabalho com dados
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔍%20COLETA-SQL%20%7C%20APIs-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔍%20COLETA-SQL%20%7C%20APIs-blue?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/➔-white?style=flat-square" />
-  <img src="https://img.shields.io/badge/🧹%20LIMPEZA-Pandas%20%7C%20P.Query-orange?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧹%20LIMPEZA-Pandas%20%7C%20Power%20Query-orange?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/➔-white?style=flat-square" />
   <img src="https://img.shields.io/badge/📊%20ANÁLISE-Estatística%20%7C%20Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/➔-white?style=flat-square" />
   <img src="https://img.shields.io/badge/📈%20VISUALIZAÇÃO-Dashboards-green?style=for-the-badge&logo=powerbi&logoColor=white" />
+</p>
+
+### Ferramentas
+
+**Linguagens e Bancos de Dados**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+**Análise e Visualização de Dados**
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Planilhas-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+</p>
+
+**BI e Plataformas de Dados**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+**Notebooks**
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+**IA**
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks_Genie-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+**Web e Versionamento**
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -145,22 +195,6 @@ rastreáveis e de rápida evolução.
 | Estruturação de prompts e contexto para guiar modelos na criação de scripts Python robustos e queries performáticas. | Criação de MVPs, dashboards e protótipos funcionais (e landing pages*) para validar ideias com rapidez. | Automação de processos e integração entre sistemas, dados e ferramentas, reduzindo tarefas manuais. |
 
 🔄 **Melhoria contínua com IA:** exploração constante de novas possibilidades com IA para inovar, otimizar código, refatorar e acelerar a geração de insights, com revisão e validação técnica.
-
-#### 🛠️ Ferramentas de Poder
-<p align="left">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  </a>
-</p>
 
 ---
 
