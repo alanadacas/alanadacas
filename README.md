@@ -145,7 +145,3 @@ rastreáveis e de rápida evolução.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=7E676C&text=Confira%20meus%20projetos:&section=footer&fontAlign=50&fontAlignY=50&fontSize=35&descAlign=69&descAlignY=69&reversal=true&fontColor=FFFFFF&animation=blinking&fontFamily=Montserrat&fontWeight=10" />
-</p>
-
