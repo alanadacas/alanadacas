@@ -8,35 +8,31 @@ Me chamo Alana, profissional da área de Dados, cursando Análise e Desenvolvime
 
 
 <p align="left">
-    </a> 
-    <a href="https://github.com/alanadacas?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/alanadacas?color=DB7093&style=for-the-badge&labelColor=FFC0CB&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/alanadacas?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub!" 
-            src="https://custom-icon-badges.demolab.com/github/followers/alanadacas?color=DB7093&labelColor=FFC0CB&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://github.com/alanadacas?tab=repositories&sort=stargazers">
+    <img
+      alt="Total de estrelas"
+      title="Total de estrelas GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/alanadacas?color=DB7093&style=for-the-badge&labelColor=FFC0CB&logo=star&label=estrelas"
+    />
+  </a>
+  <a href="https://github.com/alanadacas?tab=followers">
+    <img
+      alt="Seguidores"
+      title="Me siga no GitHub!"
+      src="https://custom-icon-badges.demolab.com/github/followers/alanadacas?color=DB7093&labelColor=FFC0CB&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+  <img
+    alt="Contador de visitas"
+    title="Visitas ao perfil"
+    src="https://komarev.com/ghpvc/?username=alanadacas&color=DB7093&style=for-the-badge&label=VISITAS"
+  />
 </p>
 
-## 👋 Fale comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alanadacaslorenzetti/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alanadacaslorenzetti@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <img width="780" src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=F8A5B8&text=Estudando%20agora%3A&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=36&desc=%E2%98%81%EF%B8%8F%20AWS%20Cloud%20Essentials%3A%20trilha%20de%20prepara%C3%A7%C3%A3o%20para%20o%20Knowledge%20Badge&descSize=20&descAlign=50&descAlignY=68&animation=blinking" alt="Estudando agora: AWS Cloud Essentials, trilha de preparação para o Knowledge Badge" />
 </p>
-
-
 
 ## 📊 Experiências
 
@@ -138,15 +134,18 @@ rastreáveis e de rápida evolução.
 ---
 
 
-<div align="center">
+## 👋 Fale comigo
 
-<img src="https://komarev.com/ghpvc/?username=alanadacas&color=ff91a4&style=for-the-badge&label=VISITAS" alt="Contador de visitas" />
-
-</div>
-
-<br/>
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alanadacaslorenzetti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alanadacaslorenzetti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=7E676C&text=Confira%20meus%20projetos:&section=footer&fontAlign=50&fontAlignY=50&fontSize=35&descAlign=69&descAlignY=69&reversal=true&fontColor=FFFFFF&animation=blinking&fontFamily=Montserrat&fontWeight=10" />
 </p>
+
